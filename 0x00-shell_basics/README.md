@@ -1,4 +1,4 @@
 pwd -> prints current working directory
-ls /root/alx-system_engineering-devops/0x00-shell_basics -> Display contents list of specified directory
-
-
+ls -> Display contents list of directory
+cd /root -> changes directory to the root directory
+ls -l -> Dsplays contents list of a directory in log format  
