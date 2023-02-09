@@ -1,0 +1,2 @@
+#!/bin/dash
+chmod 753 hello
