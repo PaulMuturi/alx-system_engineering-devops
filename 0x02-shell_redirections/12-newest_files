@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f | sort | tail
+ls -l | sort -k6,8 -r | tail
