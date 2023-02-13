@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -a ./ -type d | wc 
+find -a ./* -type d | wc -l 
