@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort -k6,8 -r | tail
+ls -l | sort -k6,8 -r | head
