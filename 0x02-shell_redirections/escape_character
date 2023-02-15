@@ -1,0 +1,6 @@
+#!/bin/bash
+#echo "Testing" > "\\*\\\\'\"Best School\"\\'\\\\*\$\\?\\*\\*\\*\\*\\*:)"
+#echo "Testing 2" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
+
+echo "Best School" > "\\*\\\\'\"Best School\"\\'\\\\*\$\\?\\*\\*\\*\\*\\*:)"
+#\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
